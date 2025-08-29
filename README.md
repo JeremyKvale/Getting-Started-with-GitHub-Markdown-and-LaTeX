@@ -23,5 +23,4 @@ In the case that this pendulum system is placed completely vertically and contin
 
 
 # Canvas Assignment Commit History:
-The screenshot containing the history of commits to this ReadMe file can be found ![here](<img width="1837" height="702" alt="Screenshot 2025-08-28 201923" src="https://github.com/user-attachments/assets/9e9b6164-1ab4-464f-bd3f-5ed6c8b5e48c" />
-)
+The screenshot containing the history of commits to this ReadMe file can be found ![here](image_2025-08-28_203118589.png)
