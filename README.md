@@ -11,8 +11,11 @@ In this pendulum problem, the driven pivot point creates a form of **restoring f
 
 ## If the pendulum is slightly displaced from equilibrium and the pivot point moves down abruptly, what will happen to the pendulum's displacement angle?
 
-
-
-
+If the pendulum's initial angle is displaced some amount and the pivot point moves down simultaneously, this angle will increase slightly. As the pivot point moves abruptly, the end of the pendulum will be unaffected, but the angle between the pendulum and the vertical line (at the point of stable equilibrium: downward) will increase depending on the amplitude of the pivot point.
 
 ## If we start the pendulum oriented above its pivot point, at its unstable equilibrium angle, if the pivot point moves down as the pendulum begins to fall, what is your expectation of the behavior? 
+
+In the case that this pendulum system is placed completely vertically and continuously driven, it is described as a *Kapitza Pendulum.* A great video demonstration can be found [here](https://gereshes.com/2019/02/25/kapitzas-pendulum). However, in this case, the pivot point only gives one singular downward pulse. The Kapitza Pendulum functions based on the continuous up and down movement of the pivot point which allows the pendulum to stabilize at this seemingly unstable equilibrium point. For a single downward pulse, the effect will be a small emulation of the Kapitza Pendulum: a slowing effect on the pendulum downward motion. Depending on the frequency of the pulse, the slowing effect will be greater/weaker.
+
+- Lower frequencies (lower than that of the pendulum's natural swinging frequency) will have a very minimal slowing effect.
+- Higher frequencies will have a much stronger slowing effect due to the stronger restoring force being applied upward.
